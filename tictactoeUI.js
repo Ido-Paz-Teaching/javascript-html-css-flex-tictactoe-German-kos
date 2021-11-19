@@ -13,8 +13,8 @@ window.onload = function(){
     const button4 = document.getElementById("b4");
     const button5 = document.getElementById("b5");
     const button6 = document.getElementById("b6");
-    const button8 = document.getElementById("b7");
-    const button7 = document.getElementById("b8");
+    const button7 = document.getElementById("b7");
+    const button8 = document.getElementById("b8");
     var alt;
     document.querySelector("header > button").onclick = function(){
         if(document.querySelector("header > button").innerHTML == "Reset"){
